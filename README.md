@@ -19,12 +19,12 @@ This part allows a staff member to predict progression outcomes for multiple stu
 2. When ‘q’ is entered, the program should produce a ‘histogram’ where each star represents a student who achieved a progress outcome in the category range: progress, trailing, module retriever and exclude. See example below. 
 3. display the number of students for each progression category and the total number of outcomes processed. 
 
-Part 3 -  A Vertical Histogram  
+### Part 3 -  A Vertical Histogram  
 
 ![image](https://user-images.githubusercontent.com/66233975/118249239-d24f4e80-b4c2-11eb-8668-de4a3c00b314.png)
 
 
-Part 4 -  Alternative Staff Version of the program  
+### Part 4 -  Alternative Staff Version of the program  
 
 For this staff version the data will be accessed from a list and NOT from user input.
 
